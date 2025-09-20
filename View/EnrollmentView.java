@@ -3,8 +3,6 @@ package View;
 import javax.swing.*;
 import java.awt.*;
 import java.util.*;
-import Model.Student;
-import Model.Subject;
 
 public class EnrollmentView extends JFrame {
     private CardLayout cardLayout = new CardLayout(); //จัดการการสลับหน้าจอ (panel) ต่างๆ ใน JFrame เดียวกัน
